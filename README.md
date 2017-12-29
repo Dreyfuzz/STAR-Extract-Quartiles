@@ -1,6 +1,9 @@
 # STAR-Extract-Quartiles
 Ruby script for calculating annual quartiles from Renaissance STAR Test historical extracts.
 
+# Why
+Renaissance STAR reports are very good at providing in-year, actionable data, but lack options for reporting multi-year progress.
+
 # Instructions
 * Download the script
 * Edit the various paths on lines 4,5,7, 122, and 123
